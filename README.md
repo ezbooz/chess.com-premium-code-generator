@@ -12,7 +12,7 @@ This Python script generates coupon codes for Chess.com and checks their validit
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/ezbooz/chess-com-coupon-code-generator.git
+git clone https://github.com/ezbooz/chess.com-premium-code-generator.git
 ```
 2. Change to the project directory:
   ```bash
