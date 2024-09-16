@@ -1,4 +1,4 @@
-# Chess.com Premium Code Generator
+# Chess.com Premium Code Generator ( Diamond Member )
 
 This Python script generates coupon codes for Chess.com and checks their validity. The tool is designed to automate the process of checking multiple coupon codes quickly, helping users find valid codes for special offers on Chess.com.
 
