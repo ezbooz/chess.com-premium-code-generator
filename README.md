@@ -16,7 +16,7 @@ git clone https://github.com/ezbooz/chess.com-premium-code-generator.git
 ```
 2. Change to the project directory:
   ```bash
-cd chess-com-coupon-code-generator
+cd chess.com-premium-code-generator
   ```
 3. Install the required dependencies:
 ```bash
